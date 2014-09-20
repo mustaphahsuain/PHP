@@ -1,0 +1,8 @@
+__CLASS__
+__DIR__ (as of PHP 5.3)
+__FILE__
+__FUNCTION__
+__LINE__
+__METHOD__
+__NAMESPACE__ (as of PHP 5.3)
+__TRAIT__ (as of PHP 5.4)
